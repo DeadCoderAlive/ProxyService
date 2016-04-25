@@ -19,7 +19,6 @@ import java.util.UUID;
  */
 
 @org.springframework.web.bind.annotation.RestController
-
 public class RoutingController {
 
 
@@ -69,6 +68,7 @@ return null;
     @RequestMapping(value = "/initialize" ,method=RequestMethod.GET,produces = MediaType.APPLICATION_JSON_VALUE)
     public User initializeUserConf() {
 
+        System.out.println("watha");
         User user = new User();
          user.setUserId(String.valueOf(UUID.randomUUID()));
 
