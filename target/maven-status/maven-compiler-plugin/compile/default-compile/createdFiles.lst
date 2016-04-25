@@ -1,3 +1,7 @@
 edu/njit/ProxyService/controllers/RoutingController.class
-edu/njit/ProxyService/models/StringResponse.class
+edu/njit/ProxyService/models/LiveUsers.class
 edu/njit/ProxyService/Application.class
+edu/njit/ProxyService/models/ServiceRequest.class
+edu/njit/ProxyService/models/StringResponse.class
+edu/njit/ProxyService/config/ServerInitailizer.class
+edu/njit/ProxyService/repository/LiveUserRepository.class
