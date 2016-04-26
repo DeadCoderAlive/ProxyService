@@ -1,7 +1,12 @@
+/home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/ProxyNeed.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/LiveUsers.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/StringResponse.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/Application.java
+/home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/CachedWebPages.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/controllers/RoutingController.java
+/home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/User.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/config/ServerInitailizer.java
+/home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/repository/CachedWebPagesRepository.java
+/home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/repository/ProxyNeedRepository.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/repository/LiveUserRepository.java
 /home/srinivaz/ProxyService/src/main/java/edu/njit/ProxyService/models/ServiceRequest.java

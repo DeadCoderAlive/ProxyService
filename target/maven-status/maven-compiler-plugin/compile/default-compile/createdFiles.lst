@@ -1,5 +1,6 @@
 edu/njit/ProxyService/repository/CachedWebPagesRepository.class
 edu/njit/ProxyService/controllers/RoutingController.class
+edu/njit/ProxyService/Application$1.class
 edu/njit/ProxyService/models/CachedWebPages.class
 edu/njit/ProxyService/repository/ProxyNeedRepository.class
 edu/njit/ProxyService/models/ServiceRequest.class
